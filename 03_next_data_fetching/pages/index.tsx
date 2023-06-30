@@ -37,8 +37,6 @@ export type Props = {
 export const getServerSideProps: GetServerSideProps = async () => {
  const response: Product[] = await fetch('https://my-json-server.typicode.com/bea-ro/shop-api/products').then((res) => res.json())
   
-console.log(response);
-
   return {
     props:{
       products: response
