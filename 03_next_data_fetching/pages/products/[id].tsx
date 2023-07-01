@@ -63,7 +63,7 @@ const response: Product = await fetch(`https://my-json-server.typicode.com/bea-r
     return {
         props: {
             products: response, 
-            timestamp: Math.random(),
+            random: Math.random(),
         },
         revalidate: 10,
     };
