@@ -1,4 +1,7 @@
 import Head from 'next/head'
+import { useEffect, useState } from 'react'
+import { Data } from './api/products/db'
+import useSwr from 'swr'
 
 const getProduct = async () => {
   fetch('api/products/1', {method: 'GET', headers: {
@@ -13,9 +16,17 @@ const getProduct = async () => {
 })
 }
 
-
+const fetchProducts = async(url: string) => {
+return fetch(url, {method: 'GET', headers: {
+  'Content-Type': 'application/json'
+},
+}).then((res) => res.json())
+}
 
 const Home = () => {
+const {data: products, error} = useSwr('api/products', fetchProducts)
+
+console.log('HOME:', {products, error})
 
   return (
     <div>

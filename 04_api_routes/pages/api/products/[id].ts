@@ -1,23 +1,7 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 import type { NextApiRequest, NextApiResponse } from 'next'
-import Error from 'next/error'
+import { Data, Error, falseDB } from './db';
 
-type Data = {
-  id: number,
-  name:  string,
-  price: number,
-}
-
-type Error = {
-    message: string,
-}
-
-const falseDB: Record<string | number, Data > = {
-   1: { id: 1,
-    name: 'Iphone 📱',
-    price: 600
-   }
-}
 
 export default function handler(
   req: NextApiRequest,
@@ -31,8 +15,6 @@ export default function handler(
     res.json({message: 'Product not found'});
     return;
     }
-
   res.status(200)
   res.json(product)
-  
 }
