@@ -1,0 +1,142 @@
+{
+  "products": [
+    {
+      "id": "64899afdf26833d20c74a87a",
+      "name": "TRIFUNCIÓN TRIATLÓN CORTA DISTANCIA MANGA CORTA MUJE",
+      "price": "44,99 €",
+      "image": "https://res.cloudinary.com/dxxkog06n/image/upload/v1687247475/TriaRock/nrbpoxi9uokhxap29zfj.avif",
+      "createdAt": "2023-06-14T10:48:29.170Z",
+      "updatedAt": "2023-06-21T17:40:14.280Z",
+      "__v": 0,
+      "category": "swimming",
+      "bestSeller": true
+    },
+    {
+      "id": "64899afdf26833d20c74a87d",
+      "name": "NEOPRENO TRIATLÓN DE MUJER 4/2 MM 16 A 22°C VAN RYSEL NEGRO AZUL",
+      "price": "139,99 €",
+      "image": "https://res.cloudinary.com/dxxkog06n/image/upload/v1687247948/TriaRock/gttldvzxnvzihroquc7t.avif",
+      "createdAt": "2023-06-14T10:48:29.175Z",
+      "updatedAt": "2023-06-22T05:43:59.175Z",
+      "__v": 0,
+      "category": "swimming"
+    },
+    {
+      "id": "64899afdf26833d20c74a87e",
+      "name": "ZAPATILLAS CICLISMO TRIATLÓN NEGRO",
+      "price": "84,99 €",
+      "image": "https://contents.mediadecathlon.com/p1823928/k$688cef26fbba96a49f5bc9c9f8b01d07/sq/8585390.jpg?format=auto&f=800x0",
+      "createdAt": "2023-06-14T10:48:29.175Z",
+      "updatedAt": "2023-06-22T05:42:29.666Z",
+      "__v": 0,
+      "category": "cycling"
+    },
+    {
+      "id": "64899afdf26833d20c74a87f",
+      "name": "NEOPRENO TRIATLÓN HOMBRE 2/3 MM ZONE 3 VISTA",
+      "price": "169,99 €",
+      "image": "https://res.cloudinary.com/dxxkog06n/image/upload/v1687248440/TriaRock/evhbcdsvesdri5rgwzr6.avif",
+      "createdAt": "2023-06-14T10:48:29.175Z",
+      "updatedAt": "2023-06-22T05:41:39.586Z",
+      "__v": 0,
+      "category": "swimming"
+    },
+    {
+      "id": "64899afdf26833d20c74a880",
+      "name": "GAFAS NATACIÓN SPEEDO FUTURA BIOFUSE GRIS ROJO",
+      "price": "11,99 €",
+      "image": "https://contents.mediadecathlon.com/p2206059/k$bb44a4172a19f23d0d64ddabd29277a4/sq/8746861.jpg?format=auto&f=800x0",
+      "createdAt": "2023-06-14T10:48:29.175Z",
+      "updatedAt": "2023-06-22T05:40:42.710Z",
+      "__v": 0,
+      "category": "swimming",
+      "promo": true,
+      "bestSeller": true
+    },
+    {
+      "id": "64899afdf26833d20c74a87b",
+      "name": "GAFAS CICLISMO ROADR 920 ADULTO AZUL CATEGORÍA 3 HIGH DEFINITION",
+      "price": "54,99 €",
+      "image": "https://contents.mediadecathlon.com/p2448318/k$6083177e7494d8abfe6cf1c6d74bd633/sq/8796733.jpg?format=auto&f=800x0",
+      "createdAt": "2023-06-14T10:48:29.174Z",
+      "updatedAt": "2023-06-22T05:39:39.666Z",
+      "__v": 0,
+      "category": "cycling",
+      "bestSeller": true
+    },
+    {
+      "id": "64899afdf26833d20c74a882",
+      "name": "GAFAS DE CICLISMO FOTOCROMÁTICAS ALTA DEFINICIÓN ADULTO VAN RYSEL",
+      "price": "69,99 €",
+      "image": "https://res.cloudinary.com/dxxkog06n/image/upload/v1687249027/TriaRock/kcv6m2xvhaykrehnsjen.avif",
+      "createdAt": "2023-06-14T10:48:29.176Z",
+      "updatedAt": "2023-06-22T05:38:47.426Z",
+      "__v": 0,
+      "category": "cycling"
+    },
+    {
+      "id": "64899afdf26833d20c74a883",
+      "name": "GAFAS NATACIÓN XBASE DYE AZUL NARANJA CRISTALES CLAROS S",
+      "price": "5,99 €",
+      "image": "https://res.cloudinary.com/dxxkog06n/image/upload/v1687249078/TriaRock/tmjwhbtbec5rctjymhbi.avif",
+      "createdAt": "2023-06-14T10:48:29.176Z",
+      "updatedAt": "2023-06-22T05:38:05.705Z",
+      "__v": 0,
+      "category": "swimming"
+    },
+    {
+      "id": "64899afdf26833d20c74a885",
+      "name": "GAFAS NATACIÓN XBASE ROSA CORAL CRISTALES CLAROS S",
+      "price": "3,99 €",
+      "image": "https://res.cloudinary.com/dxxkog06n/image/upload/v1687249440/TriaRock/nyfusvqvpc1d2a73xejm.avif",
+      "createdAt": "2023-06-14T10:48:29.176Z",
+      "updatedAt": "2023-06-22T05:37:47.714Z",
+      "__v": 0,
+      "category": "swimming",
+      "promo": true,
+      "bestSeller": true
+    },
+    {
+      "id": "64899afdf26833d20c74a87c",
+      "name": "TRITRAJE TRIATLÓN CORTA DISTANCIA MANGA CORTA HOMBRE",
+      "price": "44,99 €",
+      "image": "https://res.cloudinary.com/dxxkog06n/image/upload/v1687248524/TriaRock/axcwpyoqwgaudoxybenr.avif",
+      "createdAt": "2023-06-14T10:48:29.174Z",
+      "updatedAt": "2023-06-22T05:37:14.156Z",
+      "__v": 0,
+      "category": "swimming",
+      "bestSeller": true
+    },
+    {
+      "id": "64899afdf26833d20c74a886",
+      "name": "GAFAS CICLISMO XC RACE II ADULTO FOTOCROMÁTICAS",
+      "price": "54,99 €",
+      "image": "https://contents.mediadecathlon.com/p2448288/k$274b045d614ca41581594c8f7e4f9012/sq/8755988.jpg?format=auto&f=800x0",
+      "createdAt": "2023-06-14T10:48:29.177Z",
+      "updatedAt": "2023-06-22T05:36:36.083Z",
+      "__v": 0,
+      "category": "cycling",
+      "bestSeller": true
+    },
+    {
+      "id": "64899afdf26833d20c74a887",
+      "name": "GAFAS NATACIÓN CRISTALES CLAROS L X-BASE NEGRO",
+      "price": "4,99 €",
+      "image": "https://res.cloudinary.com/dxxkog06n/image/upload/v1687249484/TriaRock/gmhdt6cxivqva6f1met6.avif",
+      "createdAt": "2023-06-14T10:48:29.177Z",
+      "updatedAt": "2023-06-22T05:35:55.379Z",
+      "__v": 0,
+      "category": "swimming"
+    },
+    {
+      "id": "64899afdf26833d20c74a888",
+      "name": "GAFAS DE NATACIÓN SPEEDO FASTSKIN ELITE EXCLUSIVE PLATA",
+      "price": "40,99 €",
+      "image": "https://contents.mediadecathlon.com/p2264235/k$0a933c96e4145566cbe0ab1f704564a8/sq/8746862.jpg?format=auto&f=800x0",
+      "createdAt": "2023-06-14T10:48:29.177Z",
+      "updatedAt": "2023-06-22T05:35:14.901Z",
+      "__v": 0,
+      "category": "swimming"
+    }
+  ]
+}
